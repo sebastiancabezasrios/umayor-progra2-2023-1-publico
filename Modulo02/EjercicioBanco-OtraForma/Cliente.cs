@@ -46,17 +46,15 @@ namespace EjercicioBanco
             //return null;
         }
 
-        public int getSaldoTotal(Cuenta[] _listaCuentas, int _clienteId, int _bancoId)
+        public int getSaldoTotal(List<Cuenta> _lista, int _clienteId, int _bancoId)
         {
             int saldo = 0;
             //cuales son todas sus cuentas?
-            for (int i = 0; i < _listaCuentas.Length; i++)
+            foreach (Cuenta cuenta in _lista)
             {
-                //recorro todas las cuentas
-                if (_clienteId == _listaCuentas[i].getClienteId() && _bancoId == _listaCuentas[i].getBancoId())
+                if(cuenta.getClienteId() == _clienteId && cuenta.getBancoId() == _bancoId)
                 {
-                    //Console.WriteLine("DEBUG: " + listaCuentas[i].getClienteId());
-                    saldo += _listaCuentas[i].getSaldo();
+                    saldo += cuenta.getSaldo();
                 }
             }
             return saldo;
