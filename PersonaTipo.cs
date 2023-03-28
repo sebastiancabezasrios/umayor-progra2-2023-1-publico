@@ -54,5 +54,28 @@ namespace ejercicioBanco
         {
             return activo;
         }
+
+        public int getIdByNombre(string _nombre)
+        {
+            //TODO
+            return 0;
+        }
+
+        public PersonaTipo getPersonaTipoById(PersonaTipo[] arreglo,  int _id)
+        {
+            //Console.WriteLine("Debug: En getPersonaById");
+            for(int i = 0; i<arreglo.Length; i++)
+            {
+                //Console.WriteLine("Debug: For arreglo");
+
+                if (arreglo[i].getId() == _id)
+                {
+                   //Console.WriteLine("Debug: ID Encontrado");
+                    return arreglo[i];
+                }
+            }
+            //Console.WriteLine("Debug: No Encontrado");
+            return null;
+        }
     }
 }
