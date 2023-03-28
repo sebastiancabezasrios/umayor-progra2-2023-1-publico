@@ -35,14 +35,15 @@ namespace EjercicioBanco
 
         public Cliente getClienteById(List<Cliente> _lista, int _id)
         {
-            foreach (Cliente cliente in _lista)
-            {
-                if (cliente.getId() == _id)
-                {
-                    return cliente;
-                }
-            }
-            return null;
+            return _lista.Where(l => l.getId().Equals(_id)).First();
+            //foreach (Cliente cliente in _lista)
+            //{
+            //    if (cliente.getId() == _id)
+            //    {
+            //        return cliente;
+            //    }
+            //}
+            //return null;
         }
 
         public int getSaldoTotal(Cuenta[] _listaCuentas, int _clienteId, int _bancoId)
