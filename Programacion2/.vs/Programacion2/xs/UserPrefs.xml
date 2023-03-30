@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4EFC7D20-D6FF-4639-8A7E-2D5687F19BCF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioVentas/EjercicioBanco/App.cs">
+    <Files>
+      <File FileName="EjercicioVentas/App.cs" Line="8" Column="44" />
+      <File FileName="EjercicioVentas/EjercicioBanco/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Programacion2" expanded="True">
+            <Node name="Modulo02" expanded="True">
+              <Node name="EjercicioBanco" expanded="True">
+                <Node name="App.cs" selected="True" />
+              </Node>
+              <Node name="EjercicioVentas" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Modulo02.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Modulo02.EjercicioBanco FirstBuild="True" />
+</Properties>
