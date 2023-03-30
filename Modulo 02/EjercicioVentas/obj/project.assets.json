@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umayor/Desktop/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/EjercicioVentas.csproj",
+      "projectUniqueName": "/Users/umayor/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/EjercicioVentas.csproj",
       "projectName": "EjercicioVentas",
-      "projectPath": "/Users/umayor/Desktop/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/EjercicioVentas.csproj",
+      "projectPath": "/Users/umayor/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/EjercicioVentas.csproj",
       "packagesPath": "/Users/umayor/.nuget/packages/",
-      "outputPath": "/Users/umayor/Desktop/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/obj/",
+      "outputPath": "/Users/umayor/umayor-progra2-2023-1-publico/Modulo 02/EjercicioVentas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umayor/.nuget/NuGet/NuGet.Config"

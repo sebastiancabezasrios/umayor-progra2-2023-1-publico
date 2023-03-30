@@ -27,14 +27,14 @@ namespace EjercicioVentas
             listaVendedores.Add(new Vendedor(1, "1-2", "Sebastian", "Cabezas Rios", tienda1.getId()));
             listaVendedores.Add(new Vendedor(2, "1-3", "Marcela", "Cabezas Seguel", tienda2.getId()));
 
+            //se simulan ventas
+            List<Venta> listaVentas = new List<Venta>();
+            listaVentas.Add(new )
+
             //a mostrar los recursos creados 
             mostrarDataTienda(tienda1, listaArticulos, listaVendedores, listaClientes);
-            
-            Console.WriteLine("*** Clientes ***");
-            foreach (var cliente in listaClientes)
-            {
-                Console.WriteLine(cliente.getNombre() + " " + cliente.getApellido());
-            }
+            mostrarDataTienda(tienda2, listaArticulos, listaVendedores, listaClientes);
+
         }
 
         private static void mostrarDataTienda(Tienda _tienda, List<Articulo> _listaArticulos, List<Vendedor> _listaVendedores, List<Cliente> _listaClientes)
@@ -43,7 +43,7 @@ namespace EjercicioVentas
             Console.WriteLine("Articulos disponibles en [" + _tienda.getNombre().ToUpper() +"]");
             foreach (Articulo item in _tienda.getArticulosTiendaId(_listaArticulos, _tienda.getId()))
             {
-                Console.WriteLine("- Id : [" + item.getId() + "] Articulo : [" + item.getNombre() + "] Stock: [" + item.getStock() + "] Precio : $ " + item.getPrecio());
+                Console.WriteLine("- Id : [" + item.getId() + "] Articulo : [" + item.getNombre() + "] Talla : ["+item.getTalla()+"] Stock: [" + item.getStock() + "] Precio : $ " + item.getPrecio());
             }
             Console.WriteLine("Vendedores que trabajan en [" + _tienda.getNombre().ToUpper() + "]");
             foreach (Vendedor item in _tienda.getVendedoresTiendaId(_listaVendedores, _tienda.getId()))
