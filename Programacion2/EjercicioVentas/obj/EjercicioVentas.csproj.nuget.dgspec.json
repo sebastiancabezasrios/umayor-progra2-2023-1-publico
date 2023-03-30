@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/umayor/Projects/Programacion2/EjercicioVentas/EjercicioVentas.csproj": {}
+    "/Users/umayor/Projects/umayor-progra2-2023-1-publico/Programacion2/EjercicioVentas/EjercicioVentas.csproj": {}
   },
   "projects": {
-    "/Users/umayor/Projects/Programacion2/EjercicioVentas/EjercicioVentas.csproj": {
+    "/Users/umayor/Projects/umayor-progra2-2023-1-publico/Programacion2/EjercicioVentas/EjercicioVentas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/umayor/Projects/Programacion2/EjercicioVentas/EjercicioVentas.csproj",
+        "projectUniqueName": "/Users/umayor/Projects/umayor-progra2-2023-1-publico/Programacion2/EjercicioVentas/EjercicioVentas.csproj",
         "projectName": "EjercicioVentas",
-        "projectPath": "/Users/umayor/Projects/Programacion2/EjercicioVentas/EjercicioVentas.csproj",
+        "projectPath": "/Users/umayor/Projects/umayor-progra2-2023-1-publico/Programacion2/EjercicioVentas/EjercicioVentas.csproj",
         "packagesPath": "/Users/umayor/.nuget/packages/",
-        "outputPath": "/Users/umayor/Projects/Programacion2/EjercicioVentas/obj/",
+        "outputPath": "/Users/umayor/Projects/umayor-progra2-2023-1-publico/Programacion2/EjercicioVentas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/umayor/.nuget/NuGet/NuGet.Config"
