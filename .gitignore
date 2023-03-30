@@ -1,0 +1,5 @@
+#lineas para ingnorar
+.vscode
+.vs/*
+.DS_Store
+Programacion2/.DS_Store
