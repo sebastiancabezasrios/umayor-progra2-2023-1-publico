@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{4EFC7D20-D6FF-4639-8A7E-2D5687F19BCF}|Default">
+﻿<Properties StartupConfiguration="{8B9EDAC6-863F-4338-BB46-620A70CAE67A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioVentas/EjercicioBanco/App.cs">
     <Files>
       <File FileName="EjercicioVentas/App.cs" Line="8" Column="44" />
@@ -26,5 +26,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Modulo02.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Modulo02.EjercicioBanco FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Modulo02.EjercicioBanco FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
