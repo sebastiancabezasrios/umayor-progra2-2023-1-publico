@@ -3,8 +3,9 @@ namespace EjercicioBanco
 {
 	public class App
 	{
-		public App()
+		public static void Main(String[] args)
 		{
+			Console.WriteLine("Banco");
 		}
 	}
 }
