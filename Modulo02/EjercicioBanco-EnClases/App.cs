@@ -5,7 +5,7 @@ namespace EjercicioBanco_EnClases
 	{
 		public static void Main(String[] args)
 		{
-			Console.WriteLine("Gol");
+			Console.WriteLine("Golazo :)");
 		}  
 	}
 }

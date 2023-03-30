@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}|Default">
-  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioBanco-EnClases/App.cs">
+    <Files>
+      <File FileName="EjercicioBanco-EnClases/App.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modulo02" expanded="True">
+            <Node name="EjercicioBanco-EnClases" expanded="True">
+              <Node name="App.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
