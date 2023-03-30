@@ -1,0 +1,5 @@
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioVentas/obj/Debug/net6.0/EjercicioVentas.csproj.AssemblyReference.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioVentas/obj/Debug/net6.0/EjercicioVentas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioVentas/obj/Debug/net6.0/EjercicioVentas.AssemblyInfoInputs.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioVentas/obj/Debug/net6.0/EjercicioVentas.AssemblyInfo.cs
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioVentas/obj/Debug/net6.0/EjercicioVentas.csproj.CoreCompileInputs.cache

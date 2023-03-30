@@ -1,4 +1,10 @@
 ﻿<Properties StartupConfiguration="{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.EjercicioVentas FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioBanco-EnClases/App.cs">
     <Files>
       <File FileName="EjercicioBanco-EnClases/App.cs" Line="9" Column="6" />
@@ -15,11 +21,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>
