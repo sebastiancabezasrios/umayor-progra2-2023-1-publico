@@ -5,7 +5,7 @@ namespace EjercicioVentas
 	{
 		public static void Main(String[] args)
 		{
-			Console.WriteLine("Hola Mundo");
+			Console.WriteLine("Hola Mundo 30/03/2023");
 		}
 	}
 }
