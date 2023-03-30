@@ -1,0 +1,15 @@
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/bin/Debug/net6.0/EjercicioBanco-EnClases
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/bin/Debug/net6.0/EjercicioBanco-EnClases.deps.json
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/bin/Debug/net6.0/EjercicioBanco-EnClases.runtimeconfig.json
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/bin/Debug/net6.0/EjercicioBanco-EnClases.dll
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/bin/Debug/net6.0/EjercicioBanco-EnClases.pdb
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.csproj.AssemblyReference.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.AssemblyInfoInputs.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.AssemblyInfo.cs
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.csproj.CoreCompileInputs.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.dll
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/refint/EjercicioBanco-EnClases.dll
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.pdb
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/EjercicioBanco-EnClases.genruntimeconfig.cache
+/Users/umayor/Projects/umayor-progra2-2023-1-publico/Modulo02/EjercicioBanco-EnClases/obj/Debug/net6.0/ref/EjercicioBanco-EnClases.dll
