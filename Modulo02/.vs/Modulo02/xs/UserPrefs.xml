@@ -1,9 +1,5 @@
-﻿<Properties StartupConfiguration="{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}|Default">
-  <MonoDevelop.Ide.ItemProperties.EjercicioVentas FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{C1CB3263-CC79-4A7B-A87B-647A693803EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioBanco-EnClases/App.cs">
     <Files>
@@ -21,4 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
