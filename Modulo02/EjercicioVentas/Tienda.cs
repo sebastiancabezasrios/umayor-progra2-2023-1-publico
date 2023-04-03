@@ -37,6 +37,26 @@ namespace EjercicioVentas
         {
             return activo;
         }
+
+        public void verTiendas(List<Tienda> _lista)
+        {
+            foreach (Tienda item in _lista)
+            {
+                if (item.isActivo())
+                {
+                    Console.WriteLine(item.toString());
+                }
+            }
+        }
+        public Tienda getTiendaById(List<Tienda> _lista,int _id)
+        {
+            return _lista.Where(t => t.getId().Equals(_id)).First();
+        }
+        private string toString()
+        {
+            return "["+id+"]["+nombre+"]";
+        }
+
     }
 }
 

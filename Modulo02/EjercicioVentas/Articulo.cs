@@ -13,6 +13,11 @@ namespace EjercicioVentas
         private int tiendaId;
         private bool activo;
 
+        public Articulo()
+        {
+
+        }
+
         public Articulo(int _id, string _codigo, string _nombre, string _talla, int _precio, int _stock, int _tiendaId)
         {
             id = _id;
@@ -54,7 +59,7 @@ namespace EjercicioVentas
         {
             return stock;
         }
-        public int getTienda()
+        public int getTiendaId()
         {
             return tiendaId;
         }
@@ -63,6 +68,24 @@ namespace EjercicioVentas
             return activo;
         }
 
+        public void verArticulos(List<Articulo> _lista, int _tiendaId)
+        {
+            foreach (Articulo item in _lista)
+            {
+                if (item.isActivo() && item.getTiendaId() == _tiendaId)
+                {
+                    Console.WriteLine(item.toString());
+                }
+            }
+        }
+        private string toString()
+        {
+            return "["+id+"]["+nombre+"][Talla:"+ talla + "][Precio:"+precio+"][Stock: "+stock+"]";
+        }
+        public Articulo getArticuloById(List<Articulo> _lista, int _id)
+        {
+            return _lista.Where(t => t.getId().Equals(_id)).First();
+        }
         public bool descontarStock(int _cantidad)
         {
             if (stock <= _cantidad)

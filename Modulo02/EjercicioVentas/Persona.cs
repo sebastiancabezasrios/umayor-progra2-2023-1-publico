@@ -10,6 +10,11 @@ namespace EjercicioVentas
         private string apellido;
         private bool activo;
 
+        public Persona()
+        {
+
+        }
+
         public Persona(int _id, string _rut, string _nombre, string _apellido)
         {
             id = _id;

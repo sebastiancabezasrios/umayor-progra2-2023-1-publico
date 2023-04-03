@@ -6,8 +6,9 @@ namespace EjercicioVentas
 	{
 		public static void Main(String[] args)
 		{
-            Tienda tienda1 = new Tienda(1, "Tiendita");
-            Tienda tienda2 = new Tienda(2, "Mayor Clotes");
+            List<Tienda> listaTiendas = new List<Tienda>();
+            listaTiendas.Add(new Tienda(1, "Tiendita"));
+            listaTiendas.Add(new Tienda(2, "Mayor Clotes"));
 
             List<Articulo> listaArticulos = new List<Articulo>();
             List<Cliente> listaClientes = new List<Cliente>();
@@ -30,7 +31,38 @@ namespace EjercicioVentas
             //id, rut, nombre, apellido, correo
             listaClientes.Add(new Cliente(1, "1-1", "Seba", "Cabezas", "sebastian.cabezas.r@gmail.com"));
 
+            //simular venta
+            bool salir = false;
+            while (!salir)
+            {
+                Tienda tiendaSeleccionada = new Tienda();
+                Console.WriteLine(" = SISTEMA DE VENTAS =");
+
+                Console.WriteLine("Tiendas: ");
+                new Tienda().verTiendas(listaTiendas);
+                Console.Write("Seleccione Tienda: ");
+                int opcion = int.Parse(Console.ReadLine());
+                tiendaSeleccionada = new Tienda().getTiendaById(listaTiendas, opcion);
+                Console.WriteLine("Tienda Seleccionada: " + tiendaSeleccionada.getNombre());
+
+                Console.WriteLine("Vendedores de la Tienda: ");
+                new Vendedor().verVendedores(listaVendedores, tiendaSeleccionada.getId());
+
+
+                Console.WriteLine("Articulos de la Tienda: ");
+                new Articulo().verArticulos(listaArticulos, tiendaSeleccionada.getId());
+
+
+                Console.WriteLine("Continuar: 1; Salir: 0");
+                opcion = int.Parse(Console.ReadLine());
+
+                if (opcion == 0)
+                {
+                    salir = true;
+                }
+            }
         }
+
 	}
 }
 
