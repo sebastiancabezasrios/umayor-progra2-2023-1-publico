@@ -1,23 +1,32 @@
 ﻿<Properties StartupConfiguration="{C1CB3263-CC79-4A7B-A87B-647A693803EE}|Default">
-  <MonoDevelop.Ide.ItemProperties.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioBanco-EnClases/App.cs">
+  <MonoDevelop.Ide.ItemProperties.EjercicioVentas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioVentas/Persona.cs">
     <Files>
-      <File FileName="EjercicioBanco-EnClases/App.cs" Line="9" Column="6" />
+      <File FileName="EjercicioBanco-EnClases/App.cs" Line="12" Column="1" />
+      <File FileName="EjercicioVentas/App.cs" Line="14" Column="34" />
+      <File FileName="EjercicioVentas/Tienda.cs" Line="26" Column="10" />
+      <File FileName="EjercicioVentas/Vendedor.cs" Line="18" Column="28" />
+      <File FileName="EjercicioVentas/Persona.cs" Line="25" Column="10" />
+      <File FileName="EjercicioVentas/Cliente.cs" Line="7" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Modulo02" expanded="True">
-            <Node name="EjercicioBanco-EnClases" expanded="True">
-              <Node name="App.cs" selected="True" />
+            <Node name="EjercicioBanco-EnClases" expanded="True" />
+            <Node name="EjercicioVentas" expanded="True">
+              <Node name="Persona.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
