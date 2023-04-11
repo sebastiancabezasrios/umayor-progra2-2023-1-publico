@@ -65,8 +65,10 @@ namespace MA04
         //respuesta: D
         //d. Nómina vendedores con ventas inferiores a un monto determinado
 		//intentar con WHERE
-		public List<Vendedor> getNominaVendedoresVentasInferioresA(double _montoDeterminado)
+		//public List<Vendedor> getNominaVendedoresVentasInferioresA(double _montoDeterminado)
+		public IEnumerable<Vendedor> getNominaVendedoresVentasInferioresA(double _montoDeterminado)
 		{
+			/*
 			List<Vendedor> listaRespuesta = new List<Vendedor>();
             foreach (Vendedor item in listaVendedores)
             {
@@ -76,7 +78,10 @@ namespace MA04
                 }
             }
             return listaRespuesta;
-		}
+			*/
+			return listaVendedores.Where(vendedor => vendedor.getMontoAcumulado() < _montoDeterminado);
+
+        }
         //respuesta: E
         //Porcentaje vendido por un determinado vendedor. Respecto de la venta total
 		public double getPorcentajeVendidoRespectoVentaTotal(Vendedor _vendedor)

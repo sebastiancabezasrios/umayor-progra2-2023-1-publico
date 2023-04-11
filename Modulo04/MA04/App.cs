@@ -30,13 +30,24 @@ namespace MA04
 			Console.WriteLine("Vendedor y monto con mayor venta: " + ferro.getNombreMontoVendedorConMayorVenta());
 			//implementacion respuesta c
 			Console.WriteLine("Monto total vendido: " + ferro.getMontoTotalVendido());
+
+
+
+
+
 			//implementacion respuesta d
 			double montoDeterminado = 1100;
 			Console.WriteLine("Nómina vendedores con ventas inferiores a un monto determinado " + montoDeterminado);
             foreach (Vendedor item in ferro.getNominaVendedoresVentasInferioresA(montoDeterminado))
             {
-                Console.WriteLine("- (" + item.getId() + ") " + item.getNombre() + " $" + item.getMontoAcumulado());
+                Console.WriteLine("IENUMERABLE- (" + item.getId() + ") " + item.getNombre() + " $" + item.getMontoAcumulado());
             }
+
+
+
+
+
+
 			//implementacion respuesta E
 			Console.WriteLine("Porcentaje Vendido de " + ferro.getNominaVendedores().First().getNombre() + " es: "+ferro.getPorcentajeVendidoRespectoVentaTotal(ferro.getNominaVendedores().First()) + "%");
 			Console.WriteLine("Porcentaje Vendido de " + ferro.getNominaVendedores().First().getNombre() + " es: "+ferro.getPorcentajeVendidoRespectoVentaTotal(ferro.getNominaVendedores().First().getId()) + "%");
