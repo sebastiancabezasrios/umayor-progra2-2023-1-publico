@@ -1,0 +1,15 @@
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/bin/Debug/net6.0/Modulo04
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/bin/Debug/net6.0/Modulo04.deps.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/bin/Debug/net6.0/Modulo04.runtimeconfig.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/bin/Debug/net6.0/Modulo04.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/bin/Debug/net6.0/Modulo04.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.csproj.AssemblyReference.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.AssemblyInfoInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.AssemblyInfo.cs
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.csproj.CoreCompileInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/refint/Modulo04.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/Modulo04.genruntimeconfig.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Modulo04/Modulo04/obj/Debug/net6.0/ref/Modulo04.dll

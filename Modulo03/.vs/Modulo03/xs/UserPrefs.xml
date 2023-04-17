@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E723268B-97CF-4F3B-A7DB-BB9EC1CA13F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Modulo03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modulo03/App.cs">
+    <Files>
+      <File FileName="Modulo03/App.cs" Line="9" Column="17" />
+      <File FileName="Modulo03/RUT.cs" Line="11" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modulo03" expanded="True">
+            <Node name="Modulo03" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ejemplos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

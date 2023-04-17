@@ -2,10 +2,12 @@
 
 namespace EjercicioVentas
 {
+    //herencia, Vendedor hereda todo lo publico de Persona
     public class Vendedor : Persona
     {
         private int tiendaId;
 
+        //base es la clase heredada
         public Vendedor() : base ()
         {
 

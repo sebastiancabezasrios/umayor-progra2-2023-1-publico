@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{C1CB3263-CC79-4A7B-A87B-647A693803EE}|Default">
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -11,16 +12,40 @@
       <File FileName="EjercicioVentas/Articulo.cs" Line="86" Column="10" />
       <File FileName="EjercicioVentas/Vendedor.cs" Line="40" Column="40" />
       <File FileName="EjercicioVentas/Persona.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.ItemProperties.EjercicioVentas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioVentas/Persona.cs">
+    <Files>
+      <File FileName="EjercicioBanco-EnClases/App.cs" Line="12" Column="1" />
+      <File FileName="EjercicioVentas/App.cs" Line="14" Column="34" />
+      <File FileName="EjercicioVentas/Tienda.cs" Line="26" Column="10" />
+      <File FileName="EjercicioVentas/Vendedor.cs" Line="18" Column="28" />
+      <File FileName="EjercicioVentas/Persona.cs" Line="25" Column="10" />
+      <File FileName="EjercicioVentas/Cliente.cs" Line="7" Column="25" />
+>>>>>>> 6aefba178bacb25f216de9344ba2f8073afb94f3
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+<<<<<<< HEAD
           <Node name="Modulo02" expanded="True" />
+=======
+          <Node name="Modulo02" expanded="True">
+            <Node name="EjercicioBanco-EnClases" expanded="True" />
+            <Node name="EjercicioVentas" expanded="True">
+              <Node name="Persona.cs" selected="True" />
+            </Node>
+          </Node>
+>>>>>>> 6aefba178bacb25f216de9344ba2f8073afb94f3
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.EjercicioBanco-EnClases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
