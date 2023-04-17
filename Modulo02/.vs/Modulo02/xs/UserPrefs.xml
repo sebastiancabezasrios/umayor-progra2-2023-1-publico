@@ -1,18 +1,21 @@
 ﻿<Properties StartupConfiguration="{C1CB3263-CC79-4A7B-A87B-647A693803EE}|Default">
-  <MonoDevelop.Ide.ItemProperties.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EjercicioVentas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioBanco-EnClases/App.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioVentas/App.cs">
     <Files>
-      <File FileName="EjercicioBanco-EnClases/App.cs" Line="9" Column="6" />
+      <File FileName="EjercicioVentas/App.cs" Line="47" Column="1" />
+      <File FileName="EjercicioVentas/Tienda.cs" Line="55" Column="9" />
+      <File FileName="EjercicioVentas/Articulo.cs" Line="86" Column="10" />
+      <File FileName="EjercicioVentas/Vendedor.cs" Line="40" Column="40" />
+      <File FileName="EjercicioVentas/Persona.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Modulo02" expanded="True">
-            <Node name="EjercicioBanco-EnClases" expanded="True">
-              <Node name="App.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Modulo02" expanded="True" />
         </State>
       </Pad>
     </Pads>
