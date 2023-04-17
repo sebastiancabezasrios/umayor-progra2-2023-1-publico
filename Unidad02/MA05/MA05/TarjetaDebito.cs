@@ -5,11 +5,22 @@ namespace MA05
 	{
 		private int saldo;
 
-		public TarjetaDebito()
+		public TarjetaDebito():base()
 		{
+			saldo = 0;
 		}
 
-		public bool pagar(int _valor)
+		public TarjetaDebito(int _saldo) : base()
+        {
+			saldo = _saldo;
+        }
+
+		public int getSaldo()
+		{
+			return saldo;
+		}
+
+        public bool pagar(int _valor)
 		{
 			if (saldo <= _valor)
 			{
