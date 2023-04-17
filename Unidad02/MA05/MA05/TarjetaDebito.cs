@@ -10,7 +10,7 @@ namespace MA05
 			saldo = 0;
 		}
 
-		public TarjetaDebito(int _saldo) : base()
+		public TarjetaDebito(int _id, double _numero, string _nombreBanco, int _saldo) : base(_id, _numero, _nombreBanco)
         {
 			saldo = _saldo;
         }
