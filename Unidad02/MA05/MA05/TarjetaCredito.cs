@@ -10,15 +10,26 @@ namespace MA05
 		public TarjetaCredito()
 		{
 		}
+        public TarjetaCredito(int _id, string _nombreTarjeta, double _numero, int _cupo, string _nombreBanco, int _consumo) : base(_id, _numero, _nombreBanco)
+        {
+			nombreTarjeta = _nombreTarjeta;
+			cupo = _cupo;
+			consumo = _consumo;
+        }
 
-		public bool comprar(int _valor)
+        public bool comprar(int _valor)
 		{
-			if ((cupo - consumo) <= _valor)
+			if ((cupo - consumo) >= _valor)
 			{
-				consumo -= _valor;
+				consumo += _valor;
 				return true;
 			}
 			return false;
+		}
+
+		public int getConsumo()
+		{
+			return consumo;
 		}
 
 		public bool pagarTarjeta(int _monto)
