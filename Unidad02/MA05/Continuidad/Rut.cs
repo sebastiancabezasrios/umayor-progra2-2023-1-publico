@@ -8,6 +8,8 @@ namespace Continuidad
 
 		public Rut()
 		{
+			numero = 0;
+			dv = 'X';
 		}
 
 		public Rut(int _numero, char _dv)
