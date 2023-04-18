@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{989056F4-3111-4CF9-9C54-06CF4C92E51A}|Default">
-  <MonoDevelop.Ide.ItemProperties.MA05 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.MA05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Continuidad PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

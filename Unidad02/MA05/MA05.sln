@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MA05", "MA05\MA05.csproj", "{989056F4-3111-4CF9-9C54-06CF4C92E51A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuidad", "Continuidad\Continuidad.csproj", "{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{989056F4-3111-4CF9-9C54-06CF4C92E51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{989056F4-3111-4CF9-9C54-06CF4C92E51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{989056F4-3111-4CF9-9C54-06CF4C92E51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4A5554-DF9E-4B0E-BCC7-7B72497D14AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
