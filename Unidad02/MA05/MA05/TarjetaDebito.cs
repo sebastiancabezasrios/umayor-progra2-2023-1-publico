@@ -22,7 +22,7 @@ namespace MA05
 
         public bool pagar(int _valor)
 		{
-			if (saldo <= _valor)
+			if (saldo >= _valor)
 			{
 				//saldo = saldo - valor;
 				saldo -= _valor;
