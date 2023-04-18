@@ -26,12 +26,15 @@ namespace Continuidad
             Rut otroRut = new Rut(12345456, '2');
 			Fecha otraFecha = new Fecha(31, 07, 1988);
 			Persona p1 = new Persona(otroRut, "Jose", "Sagredo", 'M', 'C', otraFecha);
+			Console.WriteLine("persona 1: " + p1.getNombreApellido());
 
 			Estudiante est2 = new Estudiante(p1, 123345, "Informatica", 2021);
 			Console.WriteLine("Estudiante 2: " +est2.ToString());
+			Console.WriteLine("Estudiante 2: " +est2.getNombreApellido());
 
 			Estudiante est3 = new Estudiante(new Persona(new Rut(11222333, 'K'), "Matias", "Lira", 'M', 'S', new Fecha(17, 6, 2000)), 2233, "Informática", 2023);
             Console.WriteLine("Estudiante 3: " + est3.ToString());
+			Console.WriteLine("Est3 Nombre: " + est3.getNombreApellido());
 
         }
     }

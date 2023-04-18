@@ -70,6 +70,11 @@ namespace Continuidad
 		{
 			fechaNac = _nacimiento;
 		}
+
+		public string getNombreApellido()
+		{
+			return nombre + " " + apellido;
+		}
 	}
 }
 
