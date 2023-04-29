@@ -1,0 +1,15 @@
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/bin/Debug/net7.0/EjercicioVentasOnline
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/bin/Debug/net7.0/EjercicioVentasOnline.deps.json
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/bin/Debug/net7.0/EjercicioVentasOnline.runtimeconfig.json
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/bin/Debug/net7.0/EjercicioVentasOnline.dll
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/bin/Debug/net7.0/EjercicioVentasOnline.pdb
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.csproj.AssemblyReference.cache
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.AssemblyInfoInputs.cache
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.AssemblyInfo.cs
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.csproj.CoreCompileInputs.cache
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.dll
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/refint/EjercicioVentasOnline.dll
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.pdb
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/EjercicioVentasOnline.genruntimeconfig.cache
+/Users/umayor/Projects/Modulo02/EjercicioVentasOnline/obj/Debug/net7.0/ref/EjercicioVentasOnline.dll

@@ -1,0 +1,15 @@
+/Users/umayor/Projects/Modulo02/EjercicioBanco/bin/Debug/net7.0/EjercicioBanco
+/Users/umayor/Projects/Modulo02/EjercicioBanco/bin/Debug/net7.0/EjercicioBanco.deps.json
+/Users/umayor/Projects/Modulo02/EjercicioBanco/bin/Debug/net7.0/EjercicioBanco.runtimeconfig.json
+/Users/umayor/Projects/Modulo02/EjercicioBanco/bin/Debug/net7.0/EjercicioBanco.dll
+/Users/umayor/Projects/Modulo02/EjercicioBanco/bin/Debug/net7.0/EjercicioBanco.pdb
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.csproj.AssemblyReference.cache
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.AssemblyInfoInputs.cache
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.AssemblyInfo.cs
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.csproj.CoreCompileInputs.cache
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.dll
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/refint/EjercicioBanco.dll
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.pdb
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/EjercicioBanco.genruntimeconfig.cache
+/Users/umayor/Projects/Modulo02/EjercicioBanco/obj/Debug/net7.0/ref/EjercicioBanco.dll
