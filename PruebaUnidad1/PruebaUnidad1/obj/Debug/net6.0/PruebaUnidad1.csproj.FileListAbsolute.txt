@@ -1,0 +1,15 @@
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.csproj.AssemblyReference.cache
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.AssemblyInfoInputs.cache
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.AssemblyInfo.cs
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.csproj.CoreCompileInputs.cache
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/bin/Debug/net6.0/PruebaUnidad1
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/bin/Debug/net6.0/PruebaUnidad1.deps.json
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/bin/Debug/net6.0/PruebaUnidad1.runtimeconfig.json
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/bin/Debug/net6.0/PruebaUnidad1.dll
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/bin/Debug/net6.0/PruebaUnidad1.pdb
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.dll
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/refint/PruebaUnidad1.dll
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.pdb
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/PruebaUnidad1.genruntimeconfig.cache
+/Users/umayor/Projects/PruebaUnidad1/PruebaUnidad1/obj/Debug/net6.0/ref/PruebaUnidad1.dll

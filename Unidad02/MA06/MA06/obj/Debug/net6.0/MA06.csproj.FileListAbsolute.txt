@@ -1,0 +1,15 @@
+/Users/umayor/Projects/Unidad2/MA06/MA06/bin/Debug/net6.0/MA06
+/Users/umayor/Projects/Unidad2/MA06/MA06/bin/Debug/net6.0/MA06.deps.json
+/Users/umayor/Projects/Unidad2/MA06/MA06/bin/Debug/net6.0/MA06.runtimeconfig.json
+/Users/umayor/Projects/Unidad2/MA06/MA06/bin/Debug/net6.0/MA06.dll
+/Users/umayor/Projects/Unidad2/MA06/MA06/bin/Debug/net6.0/MA06.pdb
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.csproj.AssemblyReference.cache
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.AssemblyInfoInputs.cache
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.AssemblyInfo.cs
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.csproj.CoreCompileInputs.cache
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.dll
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/refint/MA06.dll
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.pdb
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/MA06.genruntimeconfig.cache
+/Users/umayor/Projects/Unidad2/MA06/MA06/obj/Debug/net6.0/ref/MA06.dll
