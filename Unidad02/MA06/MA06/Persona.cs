@@ -1,6 +1,7 @@
 ﻿using System;
 namespace MA06
 {
+    //Comentario :)
     public class Persona
     {
         protected Rut rut;
