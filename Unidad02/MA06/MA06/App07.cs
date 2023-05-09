@@ -13,10 +13,20 @@ namespace MA06
             Empleado emp2 = new Empleado(per2, 150000);
             Empleado emp3 = new Empleado(per3, 150000);
 
+            Administrativo adm1 = new Administrativo(emp1, EJornada.Completa, 0.1);
+            Empleado empleadoCoercion;
+            empleadoCoercion = new Administrativo(per2, EJornada.Media, 0.2);
+
+            Console.WriteLine("ADM1: "+adm1.ToString());
+            Console.WriteLine("EmpleadoCoercion: " + empleadoCoercion.ToString());
+            Console.WriteLine("EmpleadoCoercion Sueldo: $" + empleadoCoercion.getSueldo());
+            double valor;
+            valor = emp2.getSueldo();
+            Console.WriteLine("Sueldo del Empleado 2: $" + valor);
+
             List<Empleado> nomina = new List<Empleado>();
             List<string> listaPalabras = new List<string>();
             List<Object> listaObjetos = new List<Object>();
-
 
             Console.WriteLine("Cantidad de Empleados: [" + nomina.Count() + "]");
             nomina.Add(emp1);
@@ -25,13 +35,14 @@ namespace MA06
             Console.WriteLine("Cantidad de Empleados: [" + nomina.Count() + "]");
 
 
+            Console.WriteLine("Cantidad de Palabras: [" + listaPalabras.Count() + "]");
             listaPalabras.Add("Hola");
             listaPalabras.Add("Mundo");
             listaPalabras.Add("Universidad");
             listaPalabras.Add("Mayor");
+            Console.WriteLine("Cantidad de Palabras: [" + listaPalabras.Count() + "]");
 
             Console.WriteLine("Cantidad de Objetos: [" + listaObjetos.Count() + "]");
-
             listaObjetos.Add(emp1);
             listaObjetos.Add("Programacion en C# agilada");
             listaObjetos.Add(per1);
@@ -39,13 +50,12 @@ namespace MA06
             listaObjetos.Add(true);
             Console.WriteLine("Cantidad de Objetos: [" + listaObjetos.Count() + "]");
 
-
             foreach (Object item in listaObjetos)
             {
                 if (item is Empleado)
                 {
-                    Console.WriteLine("$" + ((Empleado)item).getNombreApellido());
-
+                    //castear si es empleado
+                    Console.WriteLine("$" + ((Empleado)item).getSueldo());
                 }
                 else if (item is Persona)
                 {
@@ -92,6 +102,12 @@ namespace MA06
             //}
             ////Console.WriteLine("Cantidad de Empleados: [" + nomina.Count() + "]");
             ////Console.WriteLine("Cantidad de Empleados: [" + nomina.Count() + "]");
+            ///
+
+            Console.WriteLine("Virtual");
+            Console.WriteLine("Virtual 1: " + per1.quienSoy());
+            Console.WriteLine("Virtual 2: " + emp1.quienSoy());
+            Console.WriteLine("Virtual 3: " + adm1.quienSoy());
         }
     }
 }

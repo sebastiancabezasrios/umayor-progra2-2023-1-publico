@@ -87,6 +87,11 @@ namespace MA06
             return "Soy una Persona";
         }
 
+        public virtual string guardarBD()
+        {
+            return "Conectando a la tabla persona";
+        }
+
         public string getRut()
         {
             return rut.ToString();

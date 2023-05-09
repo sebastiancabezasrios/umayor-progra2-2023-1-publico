@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umayor/Projects/Unidad2/MA06/MA06/MA06.csproj",
+      "projectUniqueName": "/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/MA06/MA06/MA06.csproj",
       "projectName": "MA06",
-      "projectPath": "/Users/umayor/Projects/Unidad2/MA06/MA06/MA06.csproj",
+      "projectPath": "/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/MA06/MA06/MA06.csproj",
       "packagesPath": "/Users/umayor/.nuget/packages/",
-      "outputPath": "/Users/umayor/Projects/Unidad2/MA06/MA06/obj/",
+      "outputPath": "/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/MA06/MA06/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umayor/.nuget/NuGet/NuGet.Config"

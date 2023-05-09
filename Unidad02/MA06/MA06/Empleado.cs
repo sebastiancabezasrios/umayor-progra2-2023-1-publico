@@ -27,6 +27,10 @@ namespace MA06
         {
 			sueldo = _empleado.sueldo;
         }
+        public Empleado(Persona _p) : base(_p)
+        {
+            this.sueldo = 0;
+        }
 
         public override string ToString()
         {
@@ -43,6 +47,16 @@ namespace MA06
         public override string quienSoy()
         {
             return "Soy un Empleado";
+        }
+
+        public override string guardarBD()
+        {
+            return "Conectando a la tabla Empleado";
+        }
+
+        public double getSueldo()
+        {
+            return sueldo;
         }
     }
 }

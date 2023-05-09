@@ -1,6 +1,10 @@
 ﻿using System;
 namespace MA06
 {
+	public enum EJornada {
+		Completa, Media, Parcial
+	}
+
 	public class Jornada
 	{
 		private bool completa;

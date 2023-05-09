@@ -33,7 +33,7 @@ namespace MA06
 			return s.ToString();
         }
 
-        public override string quienSoy()
+        public string quienSoy()
         {
             return "Soy un Docente";
         }
