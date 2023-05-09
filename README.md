@@ -5,7 +5,7 @@
 <hr>
 <h2>C# en VSCODE desde OSX</h2>
 <ul>
-  <li>Instalar complemeneto dotnet, revisar desde consola <code>dotnet --version</code></li>
+  <li>Instalar complemento dotnet, revisar desde consola <code>dotnet --version</code></li>
   <li>Instalar Extensión <code>ms-dotnettools.csharp</code></li>
   <li>Ir a la carpeta donde están los proyectos, crear un nuevo proyecto <code>dotnet new console -o [nombre]</code></li>
   <li>Ir a la carpeta del nuevo proyecto <code>cd [nombre]</code></li>
