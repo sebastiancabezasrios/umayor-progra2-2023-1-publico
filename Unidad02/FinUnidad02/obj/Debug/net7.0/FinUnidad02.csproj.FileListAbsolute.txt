@@ -1,0 +1,15 @@
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/bin/Debug/net7.0/FinUnidad02
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/bin/Debug/net7.0/FinUnidad02.deps.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/bin/Debug/net7.0/FinUnidad02.runtimeconfig.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/bin/Debug/net7.0/FinUnidad02.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/bin/Debug/net7.0/FinUnidad02.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.csproj.AssemblyReference.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.AssemblyInfoInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.AssemblyInfo.cs
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.csproj.CoreCompileInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/refint/FinUnidad02.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/FinUnidad02.genruntimeconfig.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad02/FinUnidad02/obj/Debug/net7.0/ref/FinUnidad02.dll
