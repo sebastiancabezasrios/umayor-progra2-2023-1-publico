@@ -1,3 +1,31 @@
 ﻿<Properties StartupConfiguration="{7A3D16CE-D33A-4DE1-9C68-088145B8C9EE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FinUnidad02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aplicaciones/App.cs">
+    <Files>
+      <File FileName="App.cs" Line="5" Column="32" />
+      <File FileName="Clases/PrestamoPelicula.cs" Line="13" Column="25" />
+      <File FileName="Colecciones/Biblioteca.cs" Line="45" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinUnidad02" expanded="True">
+            <Node name="FinUnidad02" expanded="True">
+              <Node name="Aplicaciones" expanded="True">
+                <Node name="App.cs" selected="True" />
+              </Node>
+              <Node name="Clases" expanded="True" />
+              <Node name="Colecciones" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
