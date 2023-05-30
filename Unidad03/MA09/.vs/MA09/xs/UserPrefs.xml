@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B2F7EDEC-408C-4544-861F-9FDF1F134212}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MA09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MA09/EjemploCajas/Caja.cs">
+    <Files>
+      <File FileName="MA09/App.cs" Line="43" Column="26" />
+      <File FileName="MA09/EjemploCajas/Caja.cs" Line="62" Column="14" />
+      <File FileName="MA09/EjemploCajas/Celular.cs" Line="23" Column="42" />
+      <File FileName="MA09/EjemploCajas/Florero.cs" Line="9" Column="4" />
+      <File FileName="MA09/EjemploCajas/Enumerados.cs" Line="6" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MA09" expanded="True">
+            <Node name="MA09" expanded="True">
+              <Node name="EjemploCajas" expanded="True">
+                <Node name="Caja.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

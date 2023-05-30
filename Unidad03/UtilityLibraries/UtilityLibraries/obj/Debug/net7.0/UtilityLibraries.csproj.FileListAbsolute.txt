@@ -1,0 +1,12 @@
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/bin/Debug/net7.0/UtilityLibraries.deps.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/bin/Debug/net7.0/UtilityLibraries.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/bin/Debug/net7.0/UtilityLibraries.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.csproj.AssemblyReference.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.AssemblyInfoInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.AssemblyInfo.cs
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.csproj.CoreCompileInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/refint/UtilityLibraries.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/UtilityLibraries.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/UtilityLibraries/UtilityLibraries/obj/Debug/net7.0/ref/UtilityLibraries.dll

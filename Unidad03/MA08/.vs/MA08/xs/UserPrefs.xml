@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{E920D232-B66C-402F-806A-435AC3F327C0}|Default">
-  <MonoDevelop.Ide.ItemProperties.MA08 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MA08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Punto.cs">
+    <Files>
+      <File FileName="Punto.cs" Line="17" Column="23" />
+      <File FileName="OtroObjeto.cs" />
+      <File FileName="EjemploPersonas/AppPersonas.cs" />
+      <File FileName="EjemploPersonas/Persona.cs" Line="16" Column="26" />
+      <File FileName="EjemploPersonas/Comparadores/PorApellidoMaterno.cs" />
+      <File FileName="EjemploPersonas/Comparadores/PorNombre.cs" />
+      <File FileName="EjemploPersonas/Comparadores/PorRut.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MA08" expanded="True">
+            <Node name="MA08" expanded="True">
+              <Node name="EjemploPersonas" expanded="True" />
+              <Node name="Punto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
