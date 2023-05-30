@@ -6,22 +6,22 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MA09/EjemploCajas/Caja.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MA09/App.cs">
     <Files>
-      <File FileName="MA09/App.cs" Line="43" Column="26" />
-      <File FileName="MA09/EjemploCajas/Caja.cs" Line="62" Column="14" />
-      <File FileName="MA09/EjemploCajas/Celular.cs" Line="23" Column="42" />
-      <File FileName="MA09/EjemploCajas/Florero.cs" Line="9" Column="4" />
-      <File FileName="MA09/EjemploCajas/Enumerados.cs" Line="6" Column="50" />
+      <File FileName="MA09/App.cs" Line="68" Column="16" />
+      <File FileName="MA09/ClasesGenericas/Caja.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MA09" expanded="True">
             <Node name="MA09" expanded="True">
-              <Node name="EjemploCajas" expanded="True">
-                <Node name="Caja.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True">
+                  <Node name="bibliotecaDeClases" selected="True" />
+                </Node>
               </Node>
+              <Node name="ClasesGenericas" expanded="True" />
             </Node>
           </Node>
         </State>

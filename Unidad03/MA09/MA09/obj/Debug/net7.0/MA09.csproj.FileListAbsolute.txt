@@ -13,3 +13,6 @@
 /Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/obj/Debug/net7.0/MA09.pdb
 /Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/obj/Debug/net7.0/MA09.genruntimeconfig.cache
 /Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/obj/Debug/net7.0/ref/MA09.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/bin/Debug/net7.0/bibliotecaDeClases.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/bin/Debug/net7.0/bibliotecaDeClases.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/MA09/MA09/obj/Debug/net7.0/MA09.csproj.CopyComplete

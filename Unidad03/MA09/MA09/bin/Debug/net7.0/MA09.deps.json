@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "MA09/1.0.0": {
+        "dependencies": {
+          "bibliotecaDeClases": "1.0.0.0"
+        },
         "runtime": {
           "MA09.dll": {}
+        }
+      },
+      "bibliotecaDeClases/1.0.0.0": {
+        "runtime": {
+          "bibliotecaDeClases.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "MA09/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bibliotecaDeClases/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

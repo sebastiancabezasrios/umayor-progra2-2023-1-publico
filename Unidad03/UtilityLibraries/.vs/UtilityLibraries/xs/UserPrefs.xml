@@ -7,14 +7,14 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="UtilityLibraries/StringLibrary.cs">
     <Files>
-      <File FileName="UtilityLibraries/Class1.cs" Line="10" Column="22" />
+      <File FileName="UtilityLibraries/StringLibrary.cs" Line="4" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UtilityLibraries" expanded="True">
             <Node name="UtilityLibraries" expanded="True">
-              <Node name="StringLibrary.cs" selected="True" />
+              <Node name="Dependencies" selected="True" />
             </Node>
           </Node>
         </State>

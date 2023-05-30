@@ -13,4 +13,9 @@
   <ItemGroup>
     <Folder Include="EjemploCajas\" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="bibliotecaDeClases">
+      <HintPath>..\..\bibliotecaDeClases\bibliotecaDeClases\bin\Debug\net7.0\bibliotecaDeClases.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

@@ -1,0 +1,12 @@
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/bin/Debug/net7.0/bibliotecaDeClases.deps.json
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/bin/Debug/net7.0/bibliotecaDeClases.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/bin/Debug/net7.0/bibliotecaDeClases.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.csproj.AssemblyReference.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.AssemblyInfoInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.AssemblyInfo.cs
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.csproj.CoreCompileInputs.cache
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/refint/bibliotecaDeClases.dll
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/bibliotecaDeClases.pdb
+/Users/umayor/Documents/umayor-progra2-2023-1-publico/Unidad03/bibliotecaDeClases/bibliotecaDeClases/obj/Debug/net7.0/ref/bibliotecaDeClases.dll
